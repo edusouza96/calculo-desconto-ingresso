@@ -1,4 +1,4 @@
-import { IIngresso } from '../Interfaces/IIngresso';
+import { IIngresso } from '../../Interfaces/IIngresso';
 
 export class Crianca implements IIngresso
 {

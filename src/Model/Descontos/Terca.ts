@@ -1,4 +1,4 @@
-import { Estudante } from './Estudante';
+import { Estudante } from '../Ingressos/Estudante';
 import { DiasUteis } from './DiasUteis';
 
 export class Terca extends DiasUteis

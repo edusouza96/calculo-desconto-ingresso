@@ -1,4 +1,4 @@
-import { Crianca } from './Crianca';
+import { Crianca } from '../Ingressos/Crianca';
 import { DiasUteis } from './DiasUteis';
 
 export class Quinta extends DiasUteis

@@ -1,6 +1,6 @@
-import { IDesconto } from '../Interfaces/IDesconto';
-import { IIngresso } from '../Interfaces/IIngresso';
-import { Idoso } from './Idoso';
+import { IDesconto } from "../../Interfaces/IDesconto";
+import { IIngresso } from "../../Interfaces/IIngresso";
+import { Idoso } from "../Ingressos/Idoso";
 
 export class SabadoDomingoFeriado implements IDesconto
 {

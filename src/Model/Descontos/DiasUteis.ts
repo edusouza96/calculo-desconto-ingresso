@@ -1,6 +1,6 @@
-import { IDesconto } from "../Interfaces/IDesconto";
-import { IIngresso } from "../Interfaces/IIngresso";
-import { Estudante } from "./Estudante";
+import { IDesconto } from "../../Interfaces/IDesconto";
+import { IIngresso } from "../../Interfaces/IIngresso";
+import { Estudante } from "../Ingressos/Estudante";
 
 export abstract class DiasUteis implements IDesconto
 {

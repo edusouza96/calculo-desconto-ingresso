@@ -1,5 +1,5 @@
+import { Idoso } from '../Ingressos/Idoso';
 import { DiasUteis } from './DiasUteis';
-import { Idoso } from './Idoso';
 
 export class Quarta extends DiasUteis
 {
