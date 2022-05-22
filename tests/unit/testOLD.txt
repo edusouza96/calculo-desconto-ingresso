@@ -1,4 +1,4 @@
-const calculadorDesconto = require('./calculadorDesconto')
+const calculadorDesconto = require('../../src/calculadorDesconto')
 
 describe('Testes para calculadora de descontos de entradas', () => {
 
