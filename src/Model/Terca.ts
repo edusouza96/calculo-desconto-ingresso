@@ -5,7 +5,6 @@ export class Terca extends DiasUteis
 {
     getValor(): number
     {
-        super.getValor();
         if(this.ingresso instanceof Estudante){
             this.valor =  5;        
         }else{

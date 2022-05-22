@@ -5,7 +5,6 @@ export class Sexta extends DiasUteis
 {
     getValor(): number
     {
-        super.getValor();
         if(this.ingresso instanceof Crianca){
             this.valor = 11;        
         }else{

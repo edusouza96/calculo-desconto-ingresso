@@ -5,7 +5,6 @@ export class Quinta extends DiasUteis
 {
     getValor(): number
     {
-        super.getValor();
         if(this.ingresso instanceof Crianca){
             this.valor = 0;        
         }else{
